@@ -1,3 +1,4 @@
+![Screenshot from 2023-01-22 22-42-32](https://user-images.githubusercontent.com/79325294/213936699-c05b957b-407b-475b-9ec0-4605dde1b128.png)
 # MyChat
 
 Simple web **chat** app I`m workin on when not lazy
